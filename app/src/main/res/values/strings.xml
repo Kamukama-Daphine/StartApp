@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fast Access</string>
+    <string name="to_display">LOGIN INTERFACE</string>
+    <string name="buttonText">LOGIN IN</string>
+    <string name="setting">Select</string>
+    <string name="Name">Enter Name</string>
+    <string name="Name1">Enter Password</string>
+
+
+
+</resources>
